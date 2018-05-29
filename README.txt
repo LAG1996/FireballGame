@@ -1,0 +1,1 @@
+Game can be started by opening main.py in FireballGame/main.py
