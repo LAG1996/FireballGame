@@ -15,3 +15,7 @@ Luis Angel Garcia (Me) - Level design and concept
 Unnamed Computer Science Student at UTRGV - Physics and controls
 
 Unnamed Art Student - Character design and textures
+
+## A side note
+
+This code was thought to be lost forever. Thankfully, we found it hiding in an old SVN repository. This project was developed for the same class as [Space Moose](https://github.com/LAG1996/SpaceMoose).
